@@ -1,5 +1,4 @@
 absl-py==2.1.0
-accelerate==0.33.0
 aiohappyeyeballs==2.4.0
 aiohttp==3.10.5
 aiosignal==1.3.1
@@ -14,14 +13,12 @@ arrow==1.3.0
 asttokens==2.4.1
 astunparse==1.6.3
 async-lru==2.0.4
-attorney @ file:///C:/Users/rohan/Downloads/attorney-2.0.0-py3-none-any.whl#sha256=155254781cd8e3b3576ff139fbf99c94668d9e61612b81ea22cf3829dec1f813
 attrs==24.2.0
 babel==2.16.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
 blessed==1.20.0
 blinker==1.8.2
-blis==1.0.1
 branca==0.8.0
 catalogue==2.0.10
 certifi==2024.7.4
