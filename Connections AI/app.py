@@ -2,31 +2,14 @@
 # We used an API to mask our openai and huggingface api keys as well as because the models were simply too large to submit (They run incredibly fast though)
 # It takes about 15 seconds to start up and then finishes lightning fast.
 from flask import Flask, request
+import json
+import numpy as np
+import requests
+from sentence_transformers import SentenceTransformer
+from sklearn.cluster import AgglomerativeClustering
 
 # Please do NOT modify this file
 # Modifying this file may cause your submission to not be graded
-
-app = Flask(__name__)
-@app.post("/")
-def challengeSetup():
-	req_data = request.get_json()
-	words = req_data['words']
-	strikes = req_data['strikes']
-	isOneAway = req_data['isOneAway']
-	correctGroups = req_data['correctGroups']
-	previousGuesses = req_data['previousGuesses']
-	error = req_data['error']
-
-	guess, endTurn = model(words, strikes, isOneAway, correctGroups, previousGuesses, error)
-
-	return {"guess": guess, "endTurn": endTurn}
-
-if __name__ == '__main__':
-    app.run(debug=True, port=5000)
-
-
-
-
 import json
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -231,3 +214,29 @@ def testcall_all_matches(word_list,isOneAway,previousGuesses):
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
       
+
+app = Flask(__name__)
+@app.post("/")
+def challengeSetup():
+	req_data = request.get_json()
+	words = req_data['words']
+	strikes = req_data['strikes']
+	isOneAway = req_data['isOneAway']
+	correctGroups = req_data['correctGroups']
+	previousGuesses = req_data['previousGuesses']
+	error = req_data['error']
+
+	guess, endTurn = model(words, strikes, isOneAway, correctGroups, previousGuesses, error)
+
+	return {"guess": guess, "endTurn": endTurn}
+
+if __name__ == '__main__':
+    app.run(debug=True, port=5000)
+
+
+
+
+
+# This is our finished project
+# We used an API to mask our openai and huggingface api keys as well as because the models were simply too large to submit (They run incredibly fast though)
+# It takes about 15 seconds to start up and then finishes lightning fast.

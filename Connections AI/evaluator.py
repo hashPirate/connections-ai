@@ -3,6 +3,7 @@ import numpy as np
 import requests
 import json
 
+
 def evalFunction():
 	# Load puzzles
 	puzzles = load_puzzles()
