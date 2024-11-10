@@ -1,0 +1,1 @@
+The commit made after the event was to change the API to a static IP because of the grading taking place over multiple days. We did not add any excess code. Our commit history is present.
