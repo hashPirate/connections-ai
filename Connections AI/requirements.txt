@@ -116,7 +116,6 @@ langcodes==3.4.1
 langsmith==0.1.93
 language_data==1.2.0
 Levenshtein==0.25.1
-lib_resume_builder_AIHawk @ git+https://github.com/feder-cr/lib_resume_builder_AIHawk.git@d431d88d319d33134a3e9048dcc4346a3360cba1
 libclang==18.1.1
 lxml==5.3.0
 marisa-trie==1.2.1
