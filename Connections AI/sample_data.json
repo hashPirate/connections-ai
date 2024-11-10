@@ -1,0 +1,382 @@
+[
+    [
+        {
+            "words": [
+                "BENT",
+                "GNARLY",
+                "TWISTED",
+                "WARPED"
+            ],
+            "category": "CONTORTED"
+        },
+        {
+            "words": [
+                "LICK",
+                "OUNCE",
+                "SHRED",
+                "TRACE"
+            ],
+            "category": "SMALLEST AMOUNT"
+        },
+        {
+            "words": [
+                "EXPONENT",
+                "POWER",
+                "RADICAL",
+                "ROOT"
+            ],
+            "category": "ALGEBRA TERMS"
+        },
+        {
+            "words": [
+                "BATH",
+                "POWDER",
+                "REST",
+                "THRONE"
+            ],
+            "category": "WORDS BEFORE \u201cROOM\u201d TO MEAN LAVATORY"
+        }
+    ],
+    [
+        {
+            "words": [
+                "ANTIC",
+                "CAPER",
+                "EXPLOIT",
+                "STUNT"
+            ],
+            "category": "ESCAPADE"
+        },
+        {
+            "words": [
+                "DILL",
+                "KOSHER",
+                "SOUR",
+                "SWEET"
+            ],
+            "category": "KINDS OF PICKLES"
+        },
+        {
+            "words": [
+                "ADULT",
+                "BLUE",
+                "SPICY",
+                "SUGGESTIVE"
+            ],
+            "category": "RISQU\u00c9"
+        },
+        {
+            "words": [
+                "CHEESE",
+                "CORD",
+                "DECK",
+                "MUSTARD"
+            ],
+            "category": "CUT THE ___"
+        }
+    ],
+    [
+        {
+            "words": [
+                "HASH",
+                "SALAD",
+                "SCRAMBLE",
+                "STEW"
+            ],
+            "category": "FOOD-RELATED JUMBLES"
+        },
+        {
+            "words": [
+                "CHARACTER",
+                "IMAGE",
+                "NAME",
+                "REPUTATION"
+            ],
+            "category": "PUBLIC STANDING"
+        },
+        {
+            "words": [
+                "ARTIST",
+                "MEDIUM",
+                "TITLE",
+                "YEAR"
+            ],
+            "category": "INFO ON A MUSEUM PLACARD"
+        },
+        {
+            "words": [
+                "DIAL",
+                "EGADS",
+                "MONTE",
+                "YOGA"
+            ],
+            "category": "ANAGRAMS OF FAMOUS PAINTERS"
+        }
+    ],
+    [
+        {
+            "words": [
+                "PAUSE",
+                "PLAY",
+                "RECORD",
+                "STOP"
+            ],
+            "category": "DVR BUTTONS"
+        },
+        {
+            "words": [
+                "DIFFERENT",
+                "NEW",
+                "NOVEL",
+                "ORIGINAL"
+            ],
+            "category": "GROUNDBREAKING"
+        },
+        {
+            "words": [
+                "CORRESPOND",
+                "MESSAGE",
+                "TEXT",
+                "WRITE"
+            ],
+            "category": "COMMUNICATE THROUGH WRITING"
+        },
+        {
+            "words": [
+                "BIPED",
+                "FURNITURE",
+                "POEM",
+                "YARDSTICK"
+            ],
+            "category": "THINGS WITH FEET"
+        }
+    ],
+    [
+        {
+            "words": [
+                "CATERPILLAR",
+                "FLEECE",
+                "PEACH",
+                "PIPE CLEANER"
+            ],
+            "category": "THINGS THAT ARE FUZZY"
+        },
+        {
+            "words": [
+                "CLAM",
+                "EGG",
+                "NUT",
+                "TURTLE"
+            ],
+            "category": "THINGS WITH SHELLS"
+        },
+        {
+            "words": [
+                "DONKEY",
+                "DRAGON",
+                "OGRE",
+                "PRINCESS"
+            ],
+            "category": "FIGURES IN \u201cSHREK\u201d"
+        },
+        {
+            "words": [
+                "CARPET",
+                "KINGDOM",
+                "MARKER",
+                "MUSHROOM"
+            ],
+            "category": "MAGIC ___"
+        }
+    ],
+    [
+        {
+            "words": [
+                "FURNISH",
+                "OUTFIT",
+                "PROVISION",
+                "STOCK"
+            ],
+            "category": "EQUIP"
+        },
+        {
+            "words": [
+                "BEING",
+                "CHARACTER",
+                "EGO",
+                "SELF"
+            ],
+            "category": "INDIVIDUALITY"
+        },
+        {
+            "words": [
+                "CHEST",
+                "CONSOLE",
+                "VANITY",
+                "WARDROBE"
+            ],
+            "category": "FURNITURE"
+        },
+        {
+            "words": [
+                "CANT",
+                "ID",
+                "SHELL",
+                "WERE"
+            ],
+            "category": "WORDS WITH APOSTROPHES REMOVED"
+        }
+    ],
+    [
+        {
+            "words": [
+                "MOVING",
+                "SWEET",
+                "TENDER",
+                "TOUCHING"
+            ],
+            "category": "HEARTWARMING"
+        },
+        {
+            "words": [
+                "FEELING",
+                "HUNCH",
+                "IMPRESSION",
+                "SENSE"
+            ],
+            "category": "SNEAKING SUSPICION"
+        },
+        {
+            "words": [
+                "HEARING",
+                "INQUIRY",
+                "PROCEEDING",
+                "TRIAL"
+            ],
+            "category": "LEGAL SESSION"
+        },
+        {
+            "words": [
+                "CHAIR",
+                "LISTENING",
+                "MONEY",
+                "STREET"
+            ],
+            "category": "EASY ___"
+        }
+    ],
+    [
+        {
+            "words": [
+                "COUNTER",
+                "FRIDGE",
+                "RANGE",
+                "SINK"
+            ],
+            "category": "SEEN IN A KITCHEN"
+        },
+        {
+            "words": [
+                "BOARD",
+                "CABINET",
+                "COUNCIL",
+                "PANEL"
+            ],
+            "category": "GROUP OF ADVISORS"
+        },
+        {
+            "words": [
+                "BOAT",
+                "CRUNCH",
+                "MOUNTAIN CLIMBER",
+                "PLANK"
+            ],
+            "category": "CORE EXERCISES"
+        },
+        {
+            "words": [
+                "CHANDELIER",
+                "DROP",
+                "HOOP",
+                "STUD"
+            ],
+            "category": "KINDS OF EARRINGS"
+        }
+    ],
+    [
+        {
+            "words": [
+                "CRAWL",
+                "CREEP",
+                "DRAG",
+                "INCH"
+            ],
+            "category": "PROGRESS SLOWLY"
+        },
+        {
+            "words": [
+                "BOTTLE",
+                "CAN",
+                "DRAFT",
+                "TAP"
+            ],
+            "category": "WAYS TO ORDER A BEER"
+        },
+        {
+            "words": [
+                "BALL",
+                "CURL",
+                "DOODLE",
+                "PUFF"
+            ],
+            "category": "CHEESY CORN SNACK UNIT"
+        },
+        {
+            "words": [
+                "BUTTERFLY",
+                "DOMINO",
+                "HALO",
+                "PLACEBO"
+            ],
+            "category": "___ EFFECT"
+        }
+    ],
+    [
+        {
+            "words": [
+                "DARLING",
+                "LOVE",
+                "PUMPKIN",
+                "TREASURE"
+            ],
+            "category": "TERMS OF ENDEARMENT"
+        },
+        {
+            "words": [
+                "BAT",
+                "BLINK",
+                "FLUTTER",
+                "WINK"
+            ],
+            "category": "THINGS YOU CAN DO WITH YOUR EYELIDS"
+        },
+        {
+            "words": [
+                "DIABLO",
+                "MUSTANG",
+                "SPIDER",
+                "VIPER"
+            ],
+            "category": "SPORTS CARS"
+        },
+        {
+            "words": [
+                "EGG",
+                "JOB",
+                "SCAVENGER",
+                "WITCH"
+            ],
+            "category": "___ HUNT"
+        }
+    ]
+]
