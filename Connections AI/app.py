@@ -195,7 +195,7 @@ def model(words: list, strikes, isOneAway, correctGroups, previousGuesses, error
 
 
 def testcall_all_matches(word_list,isOneAway,previousGuesses): 
-    securl = 'https://ff3c-165-91-13-137.ngrok-free.app/find_category' # VERY LARGE LLM hosted here with massive context
+    securl = 'https://specialdatathon.ngrok.app/find_category' # VERY LARGE LLM hosted here with massive context
     payload = {'words': word_list,'isOneAway':isOneAway,'previousGuesses':previousGuesses}
     all_matched_words = []
     try:
