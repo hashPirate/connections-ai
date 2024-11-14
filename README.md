@@ -24,11 +24,11 @@
 - API: JSON-based RESTful endpoints for client interaction
 - Utilities: Logging for performance monitoring and troubleshooting
 
-# Example inputs and outputs.
+# Example inputs and outputs:
 - A list of remaining words, correct guesses, incorrect guesses and whether the previous guess was OneAway from the true answer is passed to the API.
 - The API is designed to return a list of four elements as the next best guess. The reason for designing this project using an API is because the datasets were large and we wanted to mask our API keys.
 
-# Usage
+# Usage:
 - Clone the repository and run apilauncher.py in order to start the API. Pass in command line arguments for the correct dataset and expanded dataset using python apilauncher.py <datasetjson1> <datasetjson2>
 - 2 example datasets have been provided containing categories used in previous games and an expanded data set to predict future games.
 - Ensure that app.py has the correct ip address given present in the function calling the API.
